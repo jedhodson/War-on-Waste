@@ -1,0 +1,2 @@
+
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/jetson/War-on-Waste/ros_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/jetson/War-on-Waste/ros_ws/install_isolated
